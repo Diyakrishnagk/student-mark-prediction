@@ -1,4 +1,10 @@
 # student-mark-prediction
+
+Student-Marks-Prediction
+│── student.py
+│── student_info.csv
+│── README.md
+│── requirements.txt
 # 🎓 Student Marks Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -28,3 +34,17 @@ The dataset contains:
 ```bash
 pip install -r requirements.txt
 python student.py
+
+
+---
+
+# 📦 STEP 3: CREATE `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+
